@@ -1,2 +1,2 @@
 # GrowPai-Vortex-
-Coming very soon...
+Oi kontol
