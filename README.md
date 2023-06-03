@@ -1,2 +1,2 @@
 # GrowPai-Vortex-
-Oi kontol
+Here I publish stuff for Vortex (GrowBot). All Original and created by Yuhkil#0025 (<--Also my discord). This repository is licensed and you were to edit my stuff, sell it or both, that's a big NO for you because if I were to find you.... I just simply take you down :) Also for more growpai related questions just simply go to the discord. I won't provide any links as it is against Discord's ToS. And yes, they all safe to use because why would've I publish it otherwise Zzz. USE AT OWN RISK
