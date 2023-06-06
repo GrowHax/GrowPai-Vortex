@@ -1,2 +1,2 @@
 # GrowPai-Vortex-
-Coming very soon...
+Scripts for Vortex will be posted in this repository.
