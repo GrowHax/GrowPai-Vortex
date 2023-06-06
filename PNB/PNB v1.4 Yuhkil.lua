@@ -3,9 +3,9 @@ local delay = 200 -- break & place delay
 
 local config = {
     {
-        ["name"] = "vcabhax28", 
-        ["password"] = "leo2512",
-        ["world"] = "d8du"
+        ["name"] = "", 
+        ["password"] = "",
+        ["world"] = ""
     },
     {
 	--IF YOU WANT TO USE TWO BOT THEN FILL THIS ONE DOWN BELOW TOO
