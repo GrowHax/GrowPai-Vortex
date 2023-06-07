@@ -1,0 +1,20 @@
+--Colored Spam Vortex by Yuhkil
+
+local config = {
+    {
+        ["name"] = "yourname",
+        ["password"] = "yourpassword",
+        ["world"] = "yourworld",
+        ["text"] = "wwwwww",
+
+    },
+    {
+        --IF YOU WANT TO USE TWO BOT THEN FILL THIS ONE DOWN BELOW TOO
+        ["name"] = "yourname",
+        ["password"] = "yourpassword",
+        ["world"] = "yourworld",
+        ["text"] = "wwwwww",
+    }
+}
+
+function spam(v1,v2)::start::;v1:set_action("connecting");while v1.status~=bot_status.connected  do local v10=0;while true do if (v10==0) then v1:connect();sleep(10568 -(367 + 201) );break;end end end v1:set_action("spamming");while true do local v11=927 -(214 + 713) ;local v12;while true do if (v11==(1 + 0)) then v1:say(v12);sleep(944 + 5056 );break;end if (v11==(877 -(282 + 595))) then if (v1.status~=bot_status.connected) then goto start;end v12=Randomizer(v2);v11=1638 -(1523 + 114) ;end end end end local v0={"1","2","3","4","6","7","8","9","0","o","p","b","c","#","@","$","w","q","e","r","t","a","s"};function Randomizer(v3)local v4=v0[math.random( #v0)];return "`"   .. v4   .. v3 ;end for v5,v6 in pairs(config) do local v7=v6['name'];local v8=v6['password'];local v9=bot_manager.get_bot(v7);if (v9==nil) then local v13=0 -0 ;while true do if (v13==0) then print("adding bot "   .. v7 );v9=bot_manager.add_bot(v7,v8);break;end end end create_thread(function()spam(v9,v6['text']);end);end
