@@ -1,2 +1,2 @@
 # Vortex
-Scripts for Vortex will be posted in this repository.
+Scripts for Vortex. All Original and created by Yuhkil#0025
